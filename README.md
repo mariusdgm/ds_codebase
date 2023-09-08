@@ -13,4 +13,5 @@ Repository to store useful code in general data science and machine learning
 
 ## Code sources
 - [vit-pytorch](https://github.com/lucidrains/vit-pytorch) : Collection of Vision Transformer model architectures from various research papers replicated with PyTorch code
+- [kaggle-timeseries](https://www.kaggle.com/code/konradb/ts-0-the-basics) : Series of notebooks focused on explaining time series topics
 
