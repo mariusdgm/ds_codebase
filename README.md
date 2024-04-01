@@ -21,3 +21,8 @@ Repository to store useful code in general data science and machine learning
 
 - [vit-pytorch](https://github.com/lucidrains/vit-pytorch) : Collection of Vision Transformer model architectures from various research papers replicated with PyTorch code
 - [kaggle-timeseries](https://www.kaggle.com/code/konradb/ts-0-the-basics) : Series of notebooks focused on explaining time series topics
+
+### JAX and RL related
+
+- [jax-dqn](https://towardsdatascience.com/a-gentle-introduction-to-deep-reinforcement-learning-in-jax-c1e45a179b92) : DQN implementation in JAX
+- [jax-environment](https://towardsdatascience.com/vectorize-and-parallelize-rl-environments-with-jax-q-learning-at-the-speed-of-light-49d07373adf5) : Vectorization of RL environment in JAX
